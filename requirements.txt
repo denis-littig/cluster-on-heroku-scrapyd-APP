@@ -5,3 +5,4 @@ scrapyd>=1.2.1
 scrapy-redis
 logparser>=0.8.2
 psycopg2
+scrapy-user-agents
